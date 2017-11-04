@@ -26,4 +26,7 @@ This will allow me to clearly determine stock price trend.
 Redesign Link:
 https://public.tableau.com/profile/garima8871#!/vizhome/FinancialMarketsdonotpunishdatabreaches/Story1?publish=yes
 
-In this visualization I have compared three large data breaches from companies like Equifax (2017), Anthem(2015) and Verizon(2017).
+In this visualization I have compared three large data breaches from companies like Equifax (2017), Anthem(2015) and Verizon(2017) and their corresponding stock price trends.
+
+# Claim
+"Financial markets do not punish data breaches"
