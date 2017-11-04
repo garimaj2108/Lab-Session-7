@@ -29,7 +29,10 @@ Redesign Link:
 https://public.tableau.com/profile/garima8871#!/vizhome/FinancialMarketsdonotpunishdatabreaches/Story1?publish=yes
 
 Data Sources: Yahoo Finance
+
 Downloaded csv file from Yahoo Finance for all three companies and cleaned it using Jupyter.
+Jupyter notebooks are linked in this repository for your reference.
+P.S: I still have data from Lab Session 3, but this time I decided to download data directly from the source and clean it
 
 Detail about how data is compared: 
 In this visualization I have compared three large data breaches from companies like Equifax (2017), Anthem(2015) and Verizon(2017) in the year that they occured.
