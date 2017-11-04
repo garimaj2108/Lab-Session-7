@@ -23,6 +23,8 @@ This will allow me to clearly determine stock price trend.
 
 # Visualization Redesign
 
+Firstly, I decided to add and delete the companies I selected from last visualization for analysis, just to ensure that the data breaches are recent.
+
 Redesign Link:
 https://public.tableau.com/profile/garima8871#!/vizhome/FinancialMarketsdonotpunishdatabreaches/Story1?publish=yes
 
